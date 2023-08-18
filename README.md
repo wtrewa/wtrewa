@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **psaurabh574@gmail.com**
-- 🖿 <a href="https://github.com/wtrewa/wtrewa/blob/main/wtrewa.github.io">wtrewa</a>
+- 🖿  See my portfolio at <a href="https://github.com/wtrewa/wtrewa/blob/main/wtrewa.github.io">wtrewa</a>
 
 
 
