@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **psaurabh574@gmail.com**
-- ![image](https://github.com/wtrewa/wtrewa/assets/119415274/554a264d-b239-4641-8843-03770248818a) See my portfolio at <a href="https://github.com/wtrewa/wtrewa/blob/main/wtrewa.github.io">wtrewa</a>
+- https://www.fastemoji.com/black-folder See my portfolio at <a href="https://github.com/wtrewa/wtrewa/blob/main/wtrewa.github.io">wtrewa</a>
 
 
 
