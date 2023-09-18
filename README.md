@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhpandeywtrewa&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhpandeywtrewa" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 📫 How to reach me **psaurabh574@gmail.com**
 - 🖿  See my portfolio at <a href="https://github.com/wtrewa/wtrewa/blob/main/wtrewa.github.io">wtrewa</a>
