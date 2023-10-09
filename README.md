@@ -14,7 +14,7 @@
 
 
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VMKC4Y1oiYEvA5GEJWxTPXAExQGkqgWQ/view?usp=share_link](https://drive.google.com/file/d/1VMKC4Y1oiYEvA5GEJWxTPXAExQGkqgWQ/view?usp=share_link)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1BFYEj3E3FVMwhkLCWg3A5QEw4djCQhzy/view?usp=sharing">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
