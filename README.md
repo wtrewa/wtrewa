@@ -1,12 +1,13 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Saurabh Pandey</h1>
 <br>
+<div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/></div>
 <div>
   <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt='fullstack developer' />
 </div>
-
-<h2 align="center">A passionate frontend developer from India</h2>
 <div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/></div>
+<h2 align="center">A passionate frontend developer from India</h2>
+
 
 
 
