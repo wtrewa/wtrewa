@@ -1,20 +1,21 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Saurabh Pandey</h1>
 <br>
-<div flex>
-  
+<div>
+  <img src="https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966" alt='fullstack developer' />
 </div>
-<img src="https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966" alt='fullstack developer' />
+
 <h2 align="center">A passionate frontend developer from India</h2>
 <div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/></div>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhpandeywtrewa&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhpandeywtrewa" /> </p>
 
 
 # 💫 About Me:
 🧠 I’m currently learning **NEXT JS**<br>👯 I’m looking to collaborate on Projects.<br>📝 I regularly read articles on Technology.<br>💬 Ask me about ReactJS, Javascript, NodeJS, Express, Next JS and CSS<br>📫 How to reach me **psaurabh574@gmail.com**<br>📄 Know about my experiences <a href="https://drive.google.com/file/d/1CqsXPHjrSEQzpjKRHFz6VzudQgE3E4Cf/view">Resume</a><br/>
 🫠 Know more about me <a href="https://github.com/wtrewa/wtrewa/blob/main/wtrewa.github.io">portfolio</a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhpandeywtrewa&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhpandeywtrewa" /> </p>
+
 
 
 ## 🌐 Socials:
