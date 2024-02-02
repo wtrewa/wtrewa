@@ -4,10 +4,11 @@
 </div>
 <h1 align="center">Hi 👋, I'm Saurabh Pandey</h1>
 <br>
+<div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/></div>
 <h3  style="font-size:46px;" align="center">A Passionate Full-Stack Developer From India</h3>
 <div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/></div>
 
-<div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/></div>
+
 
 
 
