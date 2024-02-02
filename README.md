@@ -6,6 +6,7 @@
 </div>
 <img src="https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966" alt='fullstack developer' />
 <h2 align="center">A passionate frontend developer from India</h2>
+<div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/></div>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhpandeywtrewa&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhpandeywtrewa" /> </p>
@@ -33,6 +34,6 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=wtrewa&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
