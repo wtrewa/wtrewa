@@ -13,7 +13,7 @@
 
 
 # 💫 About Me:
-🧠 I’m currently learning **NEXT JS**<br>👯 I’m looking to collaborate on Projects.<br>📝 I regularly read articles on Technology.<br>💬 Ask me about ReactJS, Javascript, NodeJS, Express, Next JS and CSS<br>📫 How to reach me **psaurabh574@gmail.com**<br>📄 Know about my experiences <a href="https://drive.google.com/file/d/1CqsXPHjrSEQzpjKRHFz6VzudQgE3E4Cf/view">Resume</a><br/>
+🧠 I’m currently learning **NEXT JS**<br>👯 I’m looking to collaborate on Projects.<br>📝 I regularly read articles on Technology.<br>💬 Ask me about ReactJS, Javascript, NodeJS, Express, Next JS and CSS<br>📫 How to reach me **psaurabh574@gmail.com**<br>📄 Know about my experiences <a href="https://drive.google.com/file/d/1cXvrYrAnDTAUk4vbvu9FYN7ebK8dfiCJ/view?usp=sharing">Resume</a><br/>
 🫠 Know more about me <a href="https://github.com/wtrewa/wtrewa/blob/main/wtrewa.github.io">portfolio</a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhpandeywtrewa&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhpandeywtrewa" /> </p>
 
